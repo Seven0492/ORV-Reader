@@ -186,14 +186,15 @@ The update details happened to be about the Outer God that I had hunted.
 I opened the guide and looked for related entries.
 And.
 ***
-* Part of the document was modified by SVRP.
++
+Part of the document was modified by SVRP.
 SVRP. PW ???
 Natural Disaster Fear – Founder of the Absolute Throne
 +
 Most of the records themselves were things I knew. An old Outer God of a natural disaster. The Outer God that created the 'Absolute Throne', and the lawbreaker of the scenario...
 But there was a strange link at the end of the text that I had scrolled down for a long time.
 +
-<!>[Hidden records]
+[Hidden records]
 +
 Hidden records? I absentmindedly clicked on the link and the records opened.
 I read the records absentmindedly. Somehow, it felt unrealistic, so I closed the window and opened it again.
